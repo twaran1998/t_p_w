@@ -4,7 +4,7 @@
       "userId": 1,
       "name": "Twaran Sahai",
       "designation": "Web Developer (Full Stack Developer)",
-      "photo": "http://myportifolio.duckdns.org/assets/20220326_125754.jpg",
+      "photo": "https://scontent.fykz1-2.fna.fbcdn.net/v/t39.30808-6/255102700_1820580928145635_3907738545451516793_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=lvWh7tNW_-AAX-MqZ0O&_nc_ht=scontent.fykz1-2.fna&oh=00_AfCCIAVKsPWLTC7pr2yaZtfoWo2I-Ml3a6Ed0RJDOu4wBQ&oe=644DA4CD",
       "phoneNo": "6478653460",
       "latestJob": "Freelancer",
       "address": "Conestoga College",
