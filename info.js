@@ -6,7 +6,7 @@
       "designation": "Web Developer (Full Stack Developer)",
       "photo": "http://myportifolio.duckdns.org/assets/20220326_125754.jpg",
       "phoneNo": "6478653460",
-      "latestJob": "Frelancer",
+      "latestJob": "Freelancer",
       "address": "Conestoga College",
       "gmailId": "twaransahai28@gmail.com",
       "linkdinId": "https://www.linkedin.com/in/twaran-sahai-1232ab16b/",
@@ -34,7 +34,7 @@
       "collegeName": "CONSESTOGA COLLEGE ",
       "degree": "WEB DEVELOPMENT (PG DIPLOMA)",
       "year": "2021-April,2023",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Conestoga_College_logo.svg/1200px-Conestoga_College_logo.svg.png"
+      "img": "https://seeklogo.com/images/C/conestoga-college-logo-D82B7B52B6-seeklogo.com.png"
     }
   ],
   "professionalSkills": [
@@ -197,7 +197,7 @@
       "Job_stat_four": "Worked in Agile work Environment to deliver the requirements.",
       "Job_stat_five": "Worked on pdf generator for invoice.",
       "Job_designation": "Freelance (Full Stack Developer)",
-      "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
+      "url": "https://swagimals.netlify.app/swagimalsLogo.svg"
     },
     {
       "Job_id": 3,
@@ -209,7 +209,7 @@
       "Job_stat_four": "Utilized Git and GitHub for version control and collaborated with team members using Agile methodologies. Planned, created, and maintained websites for clients.",
       "Job_stat_five": "Converted XD templates to responsive HTML or Web design.",
       "Job_designation": "Freelance (Web Developer)",
-      "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
+      "url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1506722151/btif4dxg8rgtfprtffrn.png"
     }
   ],
   "oral": [
