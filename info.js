@@ -89,18 +89,6 @@
       "date": "Jan 2023"
     }
   ],
-  "oral": [
-    {
-      "name": "15th Annual DNACON: Neurosciences-in the evolving era of technology and teamwork",
-      "date": "16th February 2013",
-      "location": "Delhi Neurological Association"
-    },
-    {
-      "name": "3rd International Conference on Eye tracking, Visual cognition and Emotion (ETVCE 2012)",
-      "date": "25th & 26th October 2012",
-      "location": " Lisbon, Portugal"
-    }
-  ],
   "posters": [
     {
       "name": "Society for Neuroscience 2022 annual meeting",
