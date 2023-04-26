@@ -328,5 +328,17 @@
       "Job_designation": "Freelance (Web Developer)",
       "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
     }
+  ],
+  "oral": [
+    {
+      "name": "15 % Scholarship in Web Development (Pg Diploma)",
+      "date": "Jan 2022",
+      "location": "Conestoga College ,Canada"
+    },
+    {
+      "name": "25% Scholarship in Computer Science Engineering (B.Tech)",
+      "date": "July 2017",
+      "location": "Jaypee University of Engineering and Technology, India"
+    }
   ]
 }
