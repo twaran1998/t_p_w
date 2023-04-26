@@ -4,7 +4,7 @@
       "userId": 1,
       "name": "Twaran Sahai",
       "designation": "Web Developer (Full Stack Developer)",
-      "photo": "https://media.licdn.com/dms/image/D5603AQF0fj6puMEeAg/profile-displayphoto-shrink_400_400/0/1676495794707?e=1683158400&v=beta&t=i6XlCVtCxpcwxZAbRmavjNamYRi80SoElEdGzpx9rbc",
+      "photo": "http://myportifolio.duckdns.org/assets/20220326_125754.jpg",
       "phoneNo": "6478653460",
       "latestJob": "Frelancer",
       "address": "Conestoga College",
@@ -28,13 +28,13 @@
       "collegeName": "JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
       "degree": "COMPUTER SCIENCE ENGINEERING(B.Tech)",
       "year": "2017-2021",
-      "img": "https://media.biltrax.com/wp-content/uploads/2022/07/7f2fb4d21b156c5746011b69052701b4.jpg"
+      "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1506722151/btif4dxg8rgtfprtffrn.png"
     },
     {
       "collegeName": "CONSESTOGA COLLEGE ",
       "degree": "WEB DEVELOPMENT (PG DIPLOMA)",
-      "year": "2021-2023",
-      "img": "https://pbs.twimg.com/profile_images/1146156951207907331/tDtLzN5s_400x400.jpg"
+      "year": "2021-April,2023",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Conestoga_College_logo.svg/1200px-Conestoga_College_logo.svg.png"
     }
   ],
   "professionalSkills": [
@@ -113,7 +113,7 @@
       "title": "Employee Management System",
       "date": "2022 Nov 30",
       "url": "https://github.com/twaran1998/Employee-Managment-System",
-      "Author": ["React Js", "GraphQL", "MongoDB"],
+      "Author": ["React Js,", "GraphQL,", "MongoDB"],
       "button": "DOI:10.1002/jat.4098"
     },
     {
@@ -121,7 +121,7 @@
       "title": "Driving Test Booking Website",
       "date": "2022 April 30",
       "url": "https://github.com/twaran1998/Folder",
-      "Author": ["React Js", "MongoDB", "Rest API", "Express", "NodeJS"],
+      "Author": ["React Js,", "MongoDB,", "Rest API,", "Express,", "NodeJS"],
       "button": "DOI:10.1177/1091581820928497"
     },
     {
@@ -130,15 +130,15 @@
       "date": "2022 Nov 20",
       "url": "https://github.com/twaran1998/Ecommerce-website-pHp",
       "Author": [
-        "PHP",
-        "MySQL",
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "JQuery",
-        "OOPS",
-        "XSS",
-        "AJAX",
+        "PHP,",
+        "MySQL,",
+        "HTML5,",
+        "CSS3,",
+        "JavaScript,",
+        "JQuery,",
+        "OOPS,",
+        "XSS,",
+        "AJAX,",
         "JSON"
       ],
       "button": "DOI: 10.1080/01658107.2019.1652656"
@@ -172,74 +172,6 @@
     },
     {
       "experience": "Annals of Indian Academy of Neurology"
-    }
-  ],
-  "pubications": [
-    {
-      "pub_id": 1,
-      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach.Journal of Applied Toxicology.",
-      "date": "2020-11-02",
-      "url": "https://doi.org/10.1002/jat.4098",
-      "Author": ["Srivastava A, Hanig JP"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 2,
-      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid.Journal of Applied Toxicology",
-      "date": "2020-05-29",
-      "url": "https://doi.org/10.1177/1091581820928497",
-      "Author": [
-        "Srivastava A, Liachenko S, Sarkar S, Paule M, Negi G, Pandey J, Hanig J"
-      ],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 3,
-      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study,Neuro- Opthlamology",
-      "date": "2019",
-      "url": "https://doi.org/10.1080/01658107.2019.1652656",
-      "Author": ["Srivastava A, Sharma R, Goyal V, Sood SK, Kumaran S"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 4,
-      "title": "Relationship between saccade and gait.Journal of Movement Disorders",
-      "date": "2018-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
-      "Author": ["Srivastava A, Ahmad OF, Pacia CM, Hallett M, Lungu C"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 5,
-      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease. Neurology, Psychiatry and Brain Research",
-      "date": "2018-02",
-      "url": "https://doi.org/10.14802/jmd.18018",
-      "Author": ["Srivastava A, Goyal V, Sood SK, Sharma R"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 6,
-      "title": "Cognition and control of saccadic system. In book P. Gamito, & P. Rosa (Eds.). I see you, you see me: Inferring cognitive and emotional processesfrom gazing behaviour. Newcastle-upon-Tyne: Cambridge Scholars Publishing",
-      "date": "",
-      "url": "https://www.cambridgescholars.com/resources/pdfs/978-1-4438-5460-3-sample.pdf",
-      "Author": ["Srivastava A, Goyal V, Sood SK, Sharma R"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 7,
-      "title": "Saccadic eye movements in Parkinson's Disease.Indian Journal of Ophthalmology",
-      "date": "2014-05",
-      "url": "https://doi.org/10.4103/0301-4738.133482",
-      "Author": ["Srivastava A, Sood SK, Sharma R, Goyal V"],
-      "button": "Read more"
-    },
-    {
-      "pub_id": 8,
-      "title": "Mechanism of selective attention: fMRI study of face-word stroop task performance. Indian Journal of Physiology and Pharmacology",
-      "date": "2013",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/24968573/",
-      "Author": ["Vivekananth S, Sood SK, Kumaran S, Srivastava A"],
-      "button": "Read more"
     }
   ],
   "workExperience": [
