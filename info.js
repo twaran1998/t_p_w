@@ -89,6 +89,7 @@
       "date": "Jan 2023"
     }
   ],
+
   "posters": [
     {
       "name": "Society for Neuroscience 2022 annual meeting",
@@ -104,81 +105,43 @@
       "name": "National Center for Toxicological Research Science Day",
       "date": "April 2018",
       "location": "Food and Drug administration (FDA)"
-    },
-    {
-      "name": "Gordon Research Conference on Eye Movements",
-      "date": "7- 12 July 2013",
-      "location": "Stonehill College in Easton MA United States"
-    },
-    {
-      "name": "57th Annual conference of Physiologists and Pharmocologists",
-      "date": "Stonehill College in Easton MA United States",
-      "location": "India, IJPP"
-    },
-    {
-      "name": "International update of Basic and Clinical Neuroscience advances and XXIV Annual Conference of Indian Academy of Neurosciences",
-      "date": " December 17-20,2006",
-      "location": " ITRC, Lucknow, India"
-    },
-    {
-      "name": "Third NBRC International Conference, (sponsored by Nature Neuroscience)",
-      "date": " December 11-13, 2006",
-      "location": " Delhi, India"
-    },
-    {
-      "name": "International Symposium",
-      "date": " 15-17 December, 2003",
-      "location": " NBRC, India"
     }
   ],
   "publications": [
     {
       "pub_id": 1,
-      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach.Journal of Applied Toxicology",
-      "date": "2020 Nov 02",
-      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jat.4098",
-      "Author": ["Srivastava A", "Hanig JP"],
+      "title": "Employee Management System",
+      "date": "2022 Nov 30",
+      "url": "https://github.com/twaran1998/Employee-Managment-System",
+      "Author": ["React Js", "GraphQL", "MongoDB"],
       "button": "DOI:10.1002/jat.4098"
     },
     {
       "pub_id": 2,
-      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid.International Journal of Toxicology",
-      "date": "2020 May 29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/32468881/",
-      "Author": [
-        "Srivastava A",
-        "Liachenko S",
-        "Sarkar S",
-        "Paule M",
-        "Negi G",
-        "Pandey J",
-        "Hanig JP"
-      ],
+      "title": "Driving Test Booking Website",
+      "date": "2022 April 30",
+      "url": "https://github.com/twaran1998/Folder",
+      "Author": ["React Js", "MongoDB", "Rest API", "Express", "NodeJS"],
       "button": "DOI:10.1177/1091581820928497"
     },
     {
       "pub_id": 3,
-      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study. Neuro- Opthlamology",
-      "date": "2019",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/01658107.2019.1652656",
-      "Author": ["Srivastava A", "Sharma R", "Goyal V", "Sood SK", "Kumaran S"],
+      "title": "Ecommerce website using PHP.",
+      "date": "2022 Nov 20",
+      "url": "https://github.com/twaran1998/Ecommerce-website-pHp",
+      "Author": [
+        "PHP",
+        "MySQL",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "JQuery",
+        "OOPS",
+        "XSS",
+        "AJAX",
+        "JSON"
+      ],
       "button": "DOI: 10.1080/01658107.2019.1652656"
-    },
-    {
-      "pub_id": 4,
-      "title": "Relationship between saccade and gait. Journal of Movement Disorders",
-      "date": "2018 Sept",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
-      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
-      "button": "11(3):93-106"
-    },
-    {
-      "pub_id": 5,
-      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease. Neurology, Psychiatry and Brain Research, Volume 27",
-      "date": "February 2018",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
-      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
-      "button": "doi: 10.14802/jmd.18018"
     }
   ],
 
